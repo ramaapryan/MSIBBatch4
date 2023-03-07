@@ -1,0 +1,5 @@
+file kedua dicabang
+
+- membuat branch - git branch nama_branch
+- file dibranch tidak terlihat di main, kecuali dimerge
+- merge branch dengan main git merge
