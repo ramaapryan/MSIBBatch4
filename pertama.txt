@@ -1,2 +1,4 @@
 menambah file ke github - add (git add)
 mengupdate file ke github - push (git push)
+
+..
