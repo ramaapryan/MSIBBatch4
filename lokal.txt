@@ -1,0 +1,2 @@
+test remote gitbash ke github
+ini file lokal yg mau diupload
